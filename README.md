@@ -17,3 +17,7 @@ replace the "Icon=" entry with one of the given icons and it will change
 "red_black" is the folder where I started to modify the animations etc. this is in progress
 
 ENJOY :)
+
+my setup for example:
+
+![alt text](https://github.com/Dimfred/red_black_beauty/blob/master/setup.png)
