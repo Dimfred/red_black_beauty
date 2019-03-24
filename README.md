@@ -3,9 +3,9 @@ The icons I modified for my red-black ubuntu theme
 
 How to setup (for ubuntu):
   - snap *.desktop are located in: /var/lib/snapd/desktop/applications 
-  - standard app (and default snaps) in: /usr/share/applications (I searched the files with ls -l | grep -i <APPNAME>)
+  - standard app (and default snaps) in: /usr/share/applications (I searched the files with ls -l | grep -i APPNAME)
   
-Edit the entry: sudo gedit <APPNAME>.desktop
+Edit the entry: sudo gedit APPNAME.desktop
 
 replace the "Icon=" entry with one of the given icons and it will change
   
