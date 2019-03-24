@@ -7,9 +7,13 @@ How to setup (for ubuntu):
   
 Edit the entry: sudo gedit <APPNAME>.desktop
 
-eplace the "Icon=" entry with one of the given icons and it will change
-
-
-
+replace the "Icon=" entry with one of the given icons and it will change
   
-  
+
+"gimp" folder contains all files saved with gimp.
+
+"originals" the original icons
+
+"red_black" is the folder where I started to modify the animations etc. this is in progress
+
+ENJOY :)
