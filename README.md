@@ -20,4 +20,8 @@ ENJOY :)
 
 my setup for example:
 
-![alt text](https://github.com/Dimfred/red_black_beauty/blob/master/setup.png)
+![alt text](https://github.com/Dimfred/red_black_beauty/blob/master/example/setup.png)
+
+![alt text](https://github.com/Dimfred/red_black_beauty/blob/master/example/setup2.png)
+
+![alt text](https://github.com/Dimfred/red_black_beauty/blob/master/example/setup3.png)
