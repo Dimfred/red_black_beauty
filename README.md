@@ -16,6 +16,8 @@ replace the "Icon=" entry with one of the given icons and it will change
 
 "red_black" is the folder where I started to modify the animations etc. this is in progress
 
+If you want to add your icons I would be happy to merge them, when you make a pull request!
+
 ENJOY :)
 
 my setup for example:
